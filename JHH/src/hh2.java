@@ -3,6 +3,6 @@ public class hh2 {
 		System.out.println("Add java class file push");
 		System.out.println("20183275 Jeong Hyeon Ho");
 		System.out.println("I'm hungry");
-		System.out.println("I'm sleepy");
+		System.out.println("I want to sleep");
 	}
 }
