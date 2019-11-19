@@ -5,7 +5,6 @@ public class hh {
 		System.out.println("Wonkwang Sw");
 		System.out.println("master branch");
 		System.out.println("hotpix branch");
-
 	}
 
 }
